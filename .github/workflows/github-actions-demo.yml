@@ -25,7 +25,7 @@ jobs:
 
       - name: List files
         run: |
-          echo tree
+          tree
       
 
 
